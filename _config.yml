@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Colorado++"
 description: "Home of all of the C++ Things Happening in Colorado"
-show_downloads: "false"
+show_downloads: false
