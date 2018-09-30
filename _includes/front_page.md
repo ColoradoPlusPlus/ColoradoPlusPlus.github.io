@@ -7,7 +7,8 @@ This site is the home of all things C++ happening in Colorado
 
 ## Conferences
 
-[C++Now](https://cppnow.org)
+ * [C++Now](https://cppnow.org)
+ * [CppCon](https://cppcon.org)
 
 ## Meetups
 
