@@ -1,4 +1,3 @@
-![](Colorado++-small.png)
 
 ## Welcome to Colorado++
 

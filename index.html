@@ -48,13 +48,22 @@ title: Colorado++
 
 <body>
   <div class="jumbotron">
-    <img src="/Colorado++-small.png"/>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2 vcenter">
+          <img src="/Colorado++-small.png" width=300/>
+        </div>
+        <div class="col-md-8 vcenter">
+          Colorado++
+        </div>
+      </div>
+    </div>
   </div>
 
   <div class="page-header">
     <div class="container">
-  {% capture my_include %}{% include front_page.md %}{% endcapture %}
-  {{ my_include | markdownify }}
+      {% capture my_include %}{% include front_page.md %}{% endcapture %}
+      {{ my_include | markdownify }}
     </div>
   </div>
 </body>
